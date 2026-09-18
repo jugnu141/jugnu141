@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Md Nawaz Alam</h1>
 <h3 align="center">🚀 MERN Stack Developer | Backend Enthusiast | DSA Problem Solver | Future Founder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Solving+complex+DSA+problems;Turning+ideas+into+startups;MERN+Stack+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Solving+complex+DSA+problems;Turning+ideas+into+startups;MERN+Stack+Specialist" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
+- 🎓 B.Tech in Information Technology at **Jaypee Institute of Information Technology, Noida**
 - 🔭 I’m currently working on **Building scalable MERN applications and backend architectures.**
 - 🌱 I’m currently learning **System Design, Advanced Node.js, and Cloud Deployment (AWS/Docker).**
 - 👯 I’m looking to collaborate on **Open Source Backend Projects and Startup Ideas.**
 - 🤝 I’m looking for help with **Scaling applications and Microservices.**
 - 💬 Ask me about **Node.js, Express, MongoDB, React, and Data Structures & Algorithms.**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **[Your Email Address Here]**
 - ⚡ Fun fact: **I believe every great startup starts with a simple backend script.**
 
 ---
@@ -57,15 +58,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Dark Space Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your-Username]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your-Username]&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jugnu141&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jugnu141&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-Username]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jugnu141&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" alt="Top Languages" width="60%" />
 </p>
 
 ---
@@ -77,23 +78,23 @@
 **🔐 Blockchain E-Voting System**
 > Secure voting using blockchain technology. Transparent and tamper-proof.
 > `Tech: Node.js, Express, MongoDB, React, Solidity`
-> 🔗 [Link to Repo](https://github.com/your-username/repo)
+> 🔗 [Link to Repo](https://github.com/jugnu141/repo-name)
 
 **📊 ML Prediction Dashboard**
 > Data visualization + ML predictions integrated into a full-stack application.
 > `Tech: React, Node.js, Python, Scikit-Learn`
-> 🔗 [Link to Repo](https://github.com/your-username/repo)
+> 🔗 [Link to Repo](https://github.com/jugnu141/repo-name)
 
 **🧠 Smart Code Reviewer (AI)**
 > AI-based code improvement suggestions using LLMs.
 > `Tech: MERN, OpenAI API`
-> 🔗 [Link to Repo](https://github.com/your-username/repo)
+> 🔗 [Link to Repo](https://github.com/jugnu141/repo-name)
 
 ---
 
 ### 🏆 Achievements & Focus
 
-- 🥇 **Strong DSA Foundation:** Actively solving problems on LeetCode/GFG. (Add your stats if you want)
+- 🥇 **Strong DSA Foundation:** Actively solving problems on LeetCode/GFG.
 - 🚀 **Startup Mindset:** Passionate about building real-world scalable systems and turning ideas into products.
 - 📅 **Weekly Development System:**
   - Day 1-2: Feature Development
@@ -108,7 +109,7 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/nawaz141/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/your-profile" target="_blank">
