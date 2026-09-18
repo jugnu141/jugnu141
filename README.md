@@ -151,7 +151,9 @@ I'm a **B.Tech student and MERN Stack Developer** focused on building practical,
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jugnu141&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=C9D1D9" width="48%" />
+  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jugnu141..."
+/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jugnu141&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6" width="48%" />
 </p>
 
