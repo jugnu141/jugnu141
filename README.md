@@ -1,240 +1,255 @@
-<h1 align="center">👋 Hi, I'm Md Nawaz Alam</h1>
 
-<h3 align="center">
-  MERN Stack Developer • Backend Engineer • DSA Problem Solver
-</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:17104A,70:312E81,100:06B6D4&height=220&section=header&text=Md%20Nawaz%20Alam&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Backend%20Enthusiast%20%7C%20DSA%20Problem%20Solver&descAlignY=58&descSize=17&animation=twinkling" />
+
+</div>
+
+<h1 align="center">👨‍🚀 Hey there, I'm Nawaz!</h1>
 
 <p align="center">
-  <a href="https://github.com/jugnu141">
-    <img src="https://komarev.com/ghpvc/?username=jugnu141&label=Profile%20Views&color=8B5CF6&style=flat" />
-  </a>
-  <a href="https://github.com/jugnu141?tab=followers">
-    <img src="https://img.shields.io/github/followers/jugnu141?label=Followers&style=flat&color=06B6D4" />
-  </a>
+  <b>🌌 MERN Stack Developer • ⚙️ Backend Enthusiast • 🧩 DSA Problem Solver</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Scalable+MERN+Applications;Backend+%26+API+Development;250%2B+DSA+Problems+Solved;Turning+Ideas+Into+Real+Products;Always+Learning%2C+Building+%26+Improving" />
+
+<a href="https://github.com/jugnu141">
+<img src="https://img.shields.io/badge/GitHub-jugnu141-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nawaz141/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jugnualam141@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+modern+web+applications+%F0%9F%9A%80;Turning+ideas+into+working+products+%F0%9F%8C%8C;Building+robust+backend+systems+%E2%9A%99%EF%B8%8F;Solving+DSA+problems+%F0%9F%A7%A9;Code.+Build.+Learn.+Repeat.+%F0%9F%94%A5" alt="Typing SVG"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌌 About Me
 
-I'm a **B.Tech student and MERN Stack Developer** focused on building practical, scalable web applications and backend systems.
+🎓 **B.Tech Student** at **Jaypee Institute of Information Technology, Noida**
 
-* 🎓 B.Tech — **Jaypee Institute of Information Technology, Noida**
-* 💻 Focused on **MERN Stack & Backend Development**
-* 🧩 Solved **250+ problems on LeetCode** and **100+ on GeeksforGeeks**
-* 🔐 Experienced with **REST APIs, JWT Authentication, Role-Based Access & File Uploads**
-* 🗄️ Working with **MongoDB, MySQL & Redis**
-* ☁️ Exploring **AWS, Docker & System Design**
-* 🤖 Interested in **AI-powered applications**
-* 🚀 Currently building projects that solve **real-world problems**
-* 🤝 Open to **internships, collaborations & interesting projects**
+💻 Passionate about **MERN Stack & Backend Development**
 
-> **Build it. Break it. Debug it. Improve it. Repeat.**
+⚙️ Interested in building **REST APIs, authentication systems and modern web applications**
 
----
+🧩 Strong interest in **Data Structures & Algorithms**
 
-## 🧠 What I Do
+🚀 I enjoy taking an idea from **concept → code → deployment**
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  🌐 Full-Stack Development                              │
-│     └─ React + Node.js + Express + MongoDB              │
-│                                                          │
-│  ⚙️ Backend Engineering                                 │
-│     └─ REST APIs + Authentication + Database Design     │
-│                                                          │
-│  🧩 Problem Solving                                     │
-│     └─ DSA + Algorithms + Competitive Programming       │
-│                                                          │
-│  🤖 AI Integration                                       │
-│     └─ AI-powered features + ML applications             │
-│                                                          │
-│  ☁️ Deployment & DevOps                                 │
-│     └─ Git + Docker + Linux + Cloud                     │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+🌱 Continuously improving my **backend development and database skills**
+
+> 🛰️ **Exploring the web one commit at a time.**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛸 My Tech Universe
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,python,html,css" />
-</p>
-
-### ⚛️ Frontend
+### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 </p>
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-### ☁️ Tools & DevOps
+### 🚀 Full Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,aws" />
+<img src="https://img.shields.io/badge/MERN-Stack-8B5CF6?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🧩 Problem Solving
+
+<p>
+
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Project
 
-### 🏥 MediFlow — AI-Powered Healthcare Platform
+### 🗳️ Full-Stack Voting Application
 
-> A full-stack healthcare platform designed to simplify healthcare workflows with AI-powered functionality.
+A complete **MERN-based Voting Application** with authentication, protected routes and an admin dashboard.
 
-**Tech:** `MERN` `AI` `REST API` `MongoDB` `JWT`
+**Tech Stack**
 
-🔗 **Repository:** [MediFlow](https://github.com/jugnu141)
+```text
+Frontend        → React
+Backend         → Node.js + Express.js
+Database        → MongoDB
+Authentication  → JWT
+Deployment      → Render
+````
 
----
-
-### 🚚 Logistics Management & Route Optimization
-
-> A full-stack logistics platform for managing shipments and optimizing delivery routes.
-
-**Tech:** `React` `Node.js` `Express` `MongoDB` `REST API`
-
-🔗 **Repository:** [View Project](https://github.com/jugnu141)
-
----
-
-### 🗳️ Voting Management System
-
-> A secure full-stack voting application with authentication and role-based access control.
-
-**Tech:** `React` `Node.js` `Express` `MongoDB` `JWT`
-
-**Highlights:**
+### ✨ Features
 
 * 🔐 JWT Authentication
-* 👤 Role-based authorization
-* 🛡️ Protected routes
-* 📊 Admin dashboard
-* 🌐 Deployed web application
+* 👤 User Authentication
+* 🛡️ Protected Routes
+* 👨‍💼 Admin Dashboard
+* 🗳️ Voting System
+* 📊 Vote Management
+* 🗄️ MongoDB Database
+* 🌐 Fully Deployed Application
 
-🔗 **Repository:** [View Project](https://github.com/jugnu141)
+<p align="left">
+
+<a href="YOUR_VOTING_APP_LIVE_URL">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Application-8B5CF6?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_VOTING_APP_GITHUB_REPO">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-### 📧 AI Email Spam Detection
+## 🧠 DSA Journey
 
-> Machine-learning based system for classifying emails as spam or legitimate using NLP techniques.
+<p align="center">
 
-**Tech:** `Python` `NLP` `TF-IDF` `Machine Learning`
+<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
-**Concepts:** `Text Classification` `Feature Engineering` `Model Evaluation`
+<img src="https://img.shields.io/badge/GeeksforGeeks-100%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 
-🔗 **Repository:** [View Project](https://github.com/jugnu141)
+</p>
+
+<p align="center">
+
+<b>250+ LeetCode Problems</b>
+  •   <b>100+ GeeksforGeeks Problems</b>
+
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jugnu141..."
+
+<img
+src="https://YOUR-RENDER-SERVICE.onrender.com/api?username=jugnu141&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=C9D1D9"
+width="48%"
 />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jugnu141&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jugnu141&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" width="45%" />
+<img
+src="https://YOUR-RENDER-SERVICE.onrender.com/api/top-langs/?username=jugnu141&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
+width="48%"
+/>
+
 </p>
 
 ---
 
-## 🧩 DSA & Problem Solving
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-100%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-</p>
-
-**Currently practicing:**
-
-`Arrays` • `Strings` • `Linked Lists` • `Trees` • `Graphs` • `Dynamic Programming` • `Greedy` • `Binary Search`
-
----
-
-## 📈 Currently Learning
+## 🌠 Developer Journey
 
 ```text
-Advanced Node.js       ███████████████░░░  80%
-System Design          ████████████░░░░░░  65%
-MySQL                  ██████████████░░░░  75%
-Docker                 ██████████░░░░░░░░  55%
-AWS                    ████████░░░░░░░░░░  45%
-Microservices          ███████░░░░░░░░░░░  40%
+                    🌌
+                    │
+                    ▼
+              Learn & Explore
+                    │
+                    ▼
+               Build 🚀
+                    │
+                    ▼
+             Solve Problems 🧩
+                    │
+                    ▼
+            Develop Backend ⚙️
+                    │
+                    ▼
+              Deploy 🌐
+                    │
+                    ▼
+             Improve 🔥
+                    │
+                    ▼
+               Repeat 🔁
 ```
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 My Mission
 
-* [x] Build multiple full-stack applications
-* [x] Strengthen DSA fundamentals
-* [x] Learn backend architecture
-* [ ] Build production-ready scalable applications
-* [ ] Contribute to Open Source
-* [ ] Deep dive into System Design
-* [ ] Learn AWS & advanced cloud deployment
-* [ ] Land a strong software engineering role 🚀
+<p align="center">
+
+🚀 Build real-world applications
+
+  •  
+
+⚙️ Become a stronger backend developer
+
+  •  
+
+🧩 Strengthen DSA
+
+  •  
+
+🗄️ Build better database solutions
+
+  •  
+
+🌐 Ship production-ready applications
+
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 📡 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/nawaz141/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Md%20Nawaz%20Alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/jugnu141">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:jugnualam141@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-jugnualam141%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 💡 Developer Philosophy
-
 <p align="center">
-  <b>Think → Build → Debug → Learn → Ship → Repeat 🔁</b>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1500&color=06B6D4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Keep+exploring.+Keep+building.+%F0%9F%9A%80;See+you+among+the+stars+%F0%9F%8C%8C" />
+
 </p>
 
-<p align="center">
-  <i>"Great software isn't written. It's continuously improved."</i>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:312E81,70:17104A,100:0D1117&height=120&section=footer"/>
+
+</div>
+```
+
+
+
